@@ -27,3 +27,8 @@
 .para{
     text-align: justify;
 }
+
+.btitle{
+    text-align: center;
+    text-decoration: underline;
+}
